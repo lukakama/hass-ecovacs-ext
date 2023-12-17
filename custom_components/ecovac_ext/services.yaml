@@ -1,0 +1,10 @@
+# Describes the format for available media player services
+ecovacs_clean_zone:
+  description: Clean a named zone
+  fields:
+    entity_id:
+      description: Name of entity
+      example: 'vacuum.cleaner'
+    zone:
+      description: The name of the zone
+      example: living room

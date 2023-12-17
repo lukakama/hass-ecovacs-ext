@@ -1,0 +1,12 @@
+{
+  "domain": "ecovac_ext",
+  "name": "Ecovacs Deebot Extended",
+  "version": "1.0.0-SNAPSHOT",
+  "requirements": [
+    "ozmo==1.0.4"
+  ],
+  "dependencies": [],
+  "codeowners": [
+    "@"
+  ]
+}
